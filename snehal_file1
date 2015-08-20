@@ -2,6 +2,9 @@
 #include<conio.h>
 int  main()
 {
+  int a,b,c;
+  c=a+b;
+  cout<<"ADDtion="<<c;
   cout<<"\n WElcome to ESDL_LAB......";
 }
 return 0;
