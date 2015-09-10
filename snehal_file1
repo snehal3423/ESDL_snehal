@@ -2,11 +2,12 @@
 #include<conio.h>
 int  main()
 {
-  int a,b,c,d;
+  int a,b,c,d,f;
   c=a+b;
   d=a-b;
+  f=a*b;
   cout<<"ADDtion="<<c;
   cout<<"Substraction="<<c;
-  cout<<"\n WElcome to ESDL_LAB......";
+ 
 }
 return 0;
